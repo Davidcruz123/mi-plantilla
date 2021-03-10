@@ -1,0 +1,25 @@
+.logostarwars{
+    width: 5em;
+    margin-left: 8%;
+}
+/* .logohover:hover{
+    display: none;
+} */
+
+.navbar .btn{
+    margin-right: 10%;
+}
+.logohover{z-index: 0;}
+.logosombra{z-index: -1;}
+
+
+option{
+    /* color: ; */
+    background-color: white;
+}
+
+.contenedorgif:hover{
+  background-color:rgba(20, 20, 20, 0.267);
+
+ 
+}
